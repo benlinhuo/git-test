@@ -1,2 +1,4 @@
 Hey this a test for git. Welcome, to git.
 今天被git震撼到，脑抽把一天工作的东西存到了stash里，然后执行git stash clear。于是，这种没有commit过的代码都没了。万能的github有篇文章，介绍恢复git stash clear的代码—O网页链接经过测试发现，git会在每次stash的时候偷偷做一个commit，直到gc之前都能拿到对应的信息。
+
+https://github.com/abhikp/git-test/wiki/Recovering-a-lost-stash
